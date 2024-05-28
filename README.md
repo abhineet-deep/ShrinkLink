@@ -62,10 +62,8 @@
 
 ### License
 
-[MIT](LICENSE) © [Dipesh Malvia](https://github.com/dmalvia/)
-
 <br>
 
 ### Developer 😎
 
-Made with ❤ by [Dipesh Malvia](https://github.com/dmalvia/).
+Made with ❤ by [Abhineet Deep](https://github.com/abhineet-deep).

@@ -53,15 +53,7 @@
 - To close a running server use `ctrl+c`.
 
 ---
-
-<br> <br>
-
-<p align='center'>If you like this project do show some love by giving this repo a 🌟.</p>
   
-<br>
-
-### License
-
 <br>
 
 ### Developer 😎
